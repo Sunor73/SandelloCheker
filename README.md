@@ -92,5 +92,5 @@
 ---
 
 **P.S.** Для получения актуальной версии обращайтесь к официальным источникам.  
-**MEGA-репозиторий**: доступен по запросу https://mega.nz/file/g9hnlC6J#dyBuIAi6FZuW5QFximepYHZ3iSnVT9K5cLRQlaPotVE.
+**MEGA-репозиторий**: доступен по запросу https://mega.nz/file/ItYkETSR#VyErXrsXhIChA2-ATaWIiwFXi6FUdlvTntgFLVr_aG4
 
