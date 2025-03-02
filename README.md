@@ -70,7 +70,7 @@
 ### **📮 ОБРАТНАЯ СВЯЗЬ**  
 - **Email**: [hrunun@bk.ru](mail.ru)
 - **GitHub Issues**: [Сообщить о баге/предложении](https://github.com/Sunor73/SandelloCheker/issues)  
-- **Telegram**: [@Sandello1337](tg://user?id=5178829144)  
+- **Telegram**: [tg://user?id=5178829144]
 
 ---
 
